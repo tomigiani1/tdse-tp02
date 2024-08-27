@@ -3029,3 +3029,8 @@ Caused by: java.lang.NullPointerException: Cannot invoke "com.st.stm32cube.ide.c
 2024-08-27 20:05:42,692 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
 2024-08-27 20:09:03,221 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
 2024-08-27 20:09:03,222 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-08-27 20:13:33,305 [INFO] Activator:176 - 
+
+
+2024-08-27 20:13:33,305 [INFO] Activator:177 - !SESSION log4j initialized
+2024-08-27 20:13:36,610 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
