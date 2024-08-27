@@ -119,3 +119,85 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-08-27 19:17:42.322
 !MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-08-27 19:37:02.873 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-08-27 19:37:21.891
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-08-27 19:37:21.894
+!MESSAGE Log4j2 initialized with config file C:\Users\tomig\STM32CubeIDE\tdse_workspace_tp0\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-08-27 19:37:32.361
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.resources 4 77 2024-08-27 19:40:42.579
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2024-08-27 19:40:42.579
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2024-08-27 19:40:42.579
+!MESSAGE C:\Users\tomig\STM32CubeIDE\tdse_workspace_tp0\ tdse-tp0_02-hw_sw_test overlaps the location of another project: ' tdse-tp0_02-hw_sw_test'
+
+!ENTRY org.eclipse.core.resources 4 77 2024-08-27 19:43:54.549
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2024-08-27 19:43:54.549
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2024-08-27 19:43:54.549
+!MESSAGE C:\Users\tomig\STM32CubeIDE\tdse_workspace_tp0\ tdse-tp0_02-hw_sw_test overlaps the location of another project: ' tdse-tp0_02-hw_sw_test'
+
+!ENTRY org.eclipse.core.resources 4 77 2024-08-27 19:49:57.548
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2024-08-27 19:49:57.548
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2024-08-27 19:49:57.548
+!MESSAGE C:\Users\tomig\STM32CubeIDE\tdse_workspace_tp0\ tdse-tp0_02-hw_sw_test overlaps the location of another project: ' tdse-tp0_02-hw_sw_test'
+
+!ENTRY org.eclipse.core.resources 4 77 2024-08-27 19:52:27.017
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2024-08-27 19:52:27.017
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2024-08-27 19:52:27.017
+!MESSAGE C:\Users\tomig\STM32CubeIDE\tdse_workspace_tp0\ tdse-tp0_02-hw_sw_test overlaps the location of another project: ' tdse-tp0_02-hw_sw_test'
+
+!ENTRY org.eclipse.core.resources 4 77 2024-08-27 19:55:02.510
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2024-08-27 19:55:02.510
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2024-08-27 19:55:02.510
+!MESSAGE C:\Users\tomig\STM32CubeIDE\tdse_workspace_tp0\ tdse-tp0_02-hw_sw_test overlaps the location of another project: ' tdse-tp0_02-hw_sw_test'
+
+!ENTRY org.eclipse.core.resources 4 77 2024-08-27 19:58:50.089
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2024-08-27 19:58:50.089
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2024-08-27 19:58:50.089
+!MESSAGE C:\Users\tomig\STM32CubeIDE\tdse_workspace_tp0\ tdse-tp0_02-hw_sw_test overlaps the location of another project: ' tdse-tp0_02-hw_sw_test'
+
+!ENTRY org.eclipse.core.resources 4 77 2024-08-27 19:59:16.252
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2024-08-27 19:59:16.252
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2024-08-27 19:59:16.252
+!MESSAGE C:\Users\tomig\STM32CubeIDE\tdse_workspace_tp0\ tdse-tp0_02-hw_sw_test overlaps the location of another project: ' tdse-tp0_02-hw_sw_test'
+!SESSION 2024-08-27 19:59:20.797 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-08-27 19:59:30.881
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-08-27 19:59:30.885
+!MESSAGE Log4j2 initialized with config file C:\Users\tomig\STM32CubeIDE\tdse_workspace_tp0\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-08-27 19:59:41.666
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-27 20:01:33.094
+!MESSAGE Indexed 'tdse-tp0_02-hw_sw_test' (17 sources, 78 headers) in 9.15 sec: 3,643 declarations; 13,251 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
