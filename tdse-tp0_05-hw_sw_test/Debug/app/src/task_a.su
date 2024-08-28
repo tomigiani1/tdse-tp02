@@ -1,0 +1,2 @@
+../app/src/task_a.c:70:6:task_a_init	24	static,ignoring_inline_asm
+../app/src/task_a.c:81:6:task_a_update	32	static,ignoring_inline_asm
