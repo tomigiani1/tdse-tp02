@@ -1,0 +1,10 @@
+20:26:10 **** Incremental Build of configuration Debug for project tdse-tp1_02-actuator_modeling ****
+make -j4 all 
+arm-none-eabi-size  tdse-tp1_02-actuator_modeling.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14128	    140	   2260	  16528	   4090	tdse-tp1_02-actuator_modeling.elf
+Finished building: default.size.stdout
+ 
+
+20:26:10 Build Finished. 0 errors, 0 warnings. (took 336ms)
+
